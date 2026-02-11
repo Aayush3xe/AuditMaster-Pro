@@ -90,6 +90,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-**Would you like me to add a specific section for the API documentation or a detailed "How to use" guide for the inspectors?**
