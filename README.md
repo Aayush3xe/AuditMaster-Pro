@@ -1,4 +1,4 @@
-# AuditMaster-Pro
+# AuditMaster-Pro made by base44.
 A robust mobile-responsive Quality Assurance app that streamlines inspections, provides real-time scoring, and syncs data seamlessly for efficient field use. Designed for accuracy and ease, even offline.
 
 QA-Streamline: Mobile-Responsive Quality Assurance App
